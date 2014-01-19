@@ -1,0 +1,4 @@
+<employeeDatabaseBackup>
+   <employee class="FullTimeEmployee" empNumber="100000" isMale="true" firstName="first" middleName="middle" lastName="last" workLocation="Mississauga" deductionsRate="0.2" salary="50000" yearsOfService="5" daysVacPerYear="14"/>
+   <employee class="FullTimeEmployee" empNumber="100001" isMale="true" firstName="first2" middleName="middle2" lastName="last2" workLocation="Mississauga" deductionsRate="0.4" salary="62500" yearsOfService="5" daysVacPerYear="14"/>
+</employeeDatabaseBackup>
